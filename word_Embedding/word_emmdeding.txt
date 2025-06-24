@@ -1,0 +1,13 @@
+ --------WordEmmeding --------
+
+ NLP     wordEmmeding   is term   used  for the   the representation of words   for text  ananysis  
+  typically   in the  form of  real  vaued  vector   tht  encodes  the meaing of  the  word such that  
+  word  are closer   int ht vecor space   are exected  to be similar   meaing 
+
+
+                   Word Embeddings
+                         |
+     |-----------------------------------------------------------------------|                    
+     count or frequncy                                        Deep learing train model 
+                                                                   word2vector 
+                                                                   
